@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet'>
+    <title>Cachorríneo</title>
+</head>
+<body>
+
+    <div id="mainDisplay">
+
+        <div id="display1" class="">
+            <h2 class="displayTitles">Fome:</h2>
+            <div id="fomeContent" class="loadbarContainer">
+                <label id="lblFome" for="Fome"></label>
+                <progress id="Fome" value="0" max="100"></progress>
+            </div>
+        </div>
+        <div id="display2" class="">
+            <h2 class="displayTitles">Sede:</h2>
+            <div id="sedeContent" class="loadbarContainer">
+                <label id="lblSede" for="Sede"></label>
+                <progress id="Sede" value="0" max="100"></progress>
+            </div>
+        </div>
+        <div id="display3" class="">
+            <h2 class="displayTitles">Sono:</h2>
+            <div id="sonoContent" class="loadbarContainer">
+                <label id="lblSono" for="Sono"></label>
+                <progress id="Sono" value="0" max="100"></progress>
+            </div>
+        </div>
+
+    </div>
+
+    <h4 id="petAge">Idade: </h4>
+
+    <div id="sun_moon" class="sun"></div>
+
+    <div id="contentPet">
+        
+        <button id="iniciar" class="button">Começar</button> 
+
+        <div id="orelhas">
+            <div id="orelhaLeft" class=""></div>
+            <div id="orelhaRight" class=""></div>
+        </div>
+
+        <div id="faceCircle">
+
+            <div id="olhos">
+                <div id="olhoLeft" class=""></div>
+                <div id="olhoRight" class=""></div>
+            </div>
+
+            <div id="narizC">
+                <div id="narizLeft" class=""></div>
+                <div id="narizRight" class=""></div>
+            </div>
+
+            <div id="mouthline" class=""></div>
+
+            <div id="mouthlines">
+                <div id="mouthlineLeft" class=""></div>
+                <div id="mouthlineRight" class=""></div>
+            </div>
+
+        </div>
+
+        
+
+        <div id="queixo">
+        </div>
+
+
+        <div id="floor">
+            <div id="waterBowl">
+                <div id="waterBowl-content" class=""></div>
+            </div>
+        </div>
+
+    </div>  
+
+    <div id="buttonsContainer">
+            <button id="fomeButton" class="button">Me alimente</button>
+            <button id="sedeButton" class="button">Aguinha Geladinha</button>
+            <button id="sonoButton" class="button">A mimir</button>
+            <button id="ageButton" class="button">Feliz Aniversário :)</button>
+    </div>
+
+    <script src="scripts.js"></script>
+    
+</body>
+</html>
