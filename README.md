@@ -1,4 +1,4 @@
-# A-Little-Dog-Game
+# Do not let the dog die
 
 Hi guys!
 This is just a game I made to spend time and study basic JS, i used CSS3 and HTML5 too. 
