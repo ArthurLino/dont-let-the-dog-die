@@ -1,4 +1,4 @@
-<h1>Dont-Let-The-Dog-Die</h1>
+<h1>Dont let the Dog die</h1>
 
 ### V1
 That repo contains the original game I've made some time ago. Now, the goal is to code the game once more and try to do a better version.
