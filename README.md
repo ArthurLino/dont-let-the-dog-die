@@ -1,13 +1,8 @@
-<h1>Dont let the Dog die</h1>
+<h1 align="center"> 🐱‍👤codename: dont-let-the-dog-die</h1>
 
-### V1
-That repo contains the original game I've made some time ago. Now, the goal is to code the game once more and try to do a better version.
+<p align="center">Long time ago, when I was learning JS basics, I watched a content creator coding a pet game like this. Well, I decided to try making my own.</p>
 
-
-### V2
-The main idea is no longer just prevent the dog's death...
-Some ideas (for now):
-- [ ] Improve UI and add some user flow
-- [ ] Add a way of getting more pets
-- [ ] Make the pets lose their stats over time
-- [ ] Add DB for saving user progress (firebase maybe)
+## 👨🏻‍💻 Built with
+- HTML
+- JS
+- CSS
