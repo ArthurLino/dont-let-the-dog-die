@@ -2,7 +2,7 @@
 
 <p align="center">Long time ago, when I was learning JS basics, I watched a content creator coding a pet game like this. Well, I decided to try making my own.</p>
 
-## 👨🏻‍💻 Built with
+## 👨🏻‍💻 built with
 - HTML
 - JS
 - CSS
